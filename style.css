@@ -1,0 +1,95 @@
+*{
+    margin: 0;
+    padding:0;
+}
+body{
+    background-color: rgba(207,216,226,255);
+}
+.navbar-brand{
+    width: 50px;
+    height: 50px;
+    background-color: rgba(28,200,161,255);
+    border-radius: 15px;
+}
+.vr{
+    width: 70px;
+    height: 1px;
+    color: rgba(28,200,161,255);
+    border-radius: 30px;
+    opacity: 0.90;
+}
+.navbar-brand1{
+    width: 250px;
+    height: 90px;
+    background-color: rgba(17,42,62,255);
+    border-radius: 10px;
+}
+hr{
+    width: 70px;
+    height: 10px;
+    background-color: rgba(28,200,161,255);
+    border-radius: 30px;
+    opacity: 0.90;
+    border: 1px solid rgba(28,200,161,255);
+}
+.container-fluid{
+    background-color: rgba(207,216,226,255);
+}
+.container-fluid1{
+    width: 2000px;
+    height: 500px;
+    border-radius: 10px;
+}
+#vr2{
+    width: 80px;
+    height: 0;
+    border-radius: 3px;
+    color: white;
+}
+#vr3{
+    width: 50px;
+    height: 0;
+    border-radius: 3px;
+    color: white;
+}
+#vr4{
+    width: 50px;
+    height: 0;
+    border-radius: 3px;
+    color: white;
+}
+#vr5{
+    width: 80px;
+    height: 0;
+    border-radius: 3px;
+    color: white;
+}
+#vr6{
+    width: 100px;
+    height: 30px;
+    border-radius: 15px;
+    color: rgba(28,200,161,255);
+}
+#vr7{
+    width: 70px;
+    height: 1px;
+    color: rgba(28,200,161,255);
+    border-radius: 30px;
+    opacity: 0.90;
+}
+#shp1{
+    position: relative;
+    top: -75px;
+    width: 250px;
+    height: 150px;
+    background-color: rgba(28,200,161,255);
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.card{
+    width: 400px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    gap: 30px;
+}
